@@ -24,6 +24,6 @@ Documentar mi ruta de preparación y obtención de certificaciones clave que val
 ### Certificaciones y Badges
 
 **Querying data with Transact‑SQL** (Microsoft Learn)
-![Badge SQL Basics](https://learn.microsoft.com/api/achievements/share/en-us/axel-quiroz/E5FFNFTP?sharingId=48686F3062B6D2A6)
+![Badge SQL Basics] (https://learn.microsoft.com/training/achievements/explore-sql-server-and-query-tools.svg)
 
 <!-- Más adelante añadirás DA‑100 y Tableau, etc. -->
