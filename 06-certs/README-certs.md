@@ -20,3 +20,10 @@ Documentar mi ruta de preparación y obtención de certificaciones clave que val
 - Organización del plan de estudio con calendario y mock exams.  
 - Identificación de áreas débiles (DAX avanzado, vocabulario técnico).  
 - Gestión del tiempo entre práctica técnica e inglés.
+
+### Certificaciones y Badges
+
+**Querying data with Transact‑SQL** (Microsoft Learn)
+![Badge SQL Basics](https://learn.microsoft.com/api/achievements/share/en-us/axel-quiroz/E5FFNFTP?sharingId=48686F3062B6D2A6)
+
+<!-- Más adelante añadirás DA‑100 y Tableau, etc. -->
